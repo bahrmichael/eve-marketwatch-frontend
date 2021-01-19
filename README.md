@@ -11,6 +11,20 @@ to all the extra shadow components it generates.
 The React app also uses class components, which will be deprecated
 in favor of functional components.
 
+## Contributions
+
+[Join our Discord](https://discord.com/invite/bTCdjBF) to discuss contributions.
+
+Please fork and submit PRs, and make sure that you test the app visually. You
+can fake a login token, by logging in to evemarketwatch.com and copying the login session
+from the localStorage. There are no unit tests here, feel free to add some, but be warned
+there are none yet.
+
+Before deploying, I'll run a suite of e2e tests (hopefully available in this repo soon).
+
+Contributors can get special SKINs! I'll distribute them based on available
+SKINs and contributor activity.
+
 ## Deployment
 
 The app runs as an SPA on AWS. I'll continue to do the deployment,
