@@ -1,0 +1,3 @@
+export const API = 'https://api.evemarketwatch.com';
+export const LOGIN_URL = 'https://login.eveonline.com/oauth/authorize/?response_type=code&redirect_uri=https%3A%2F%2Fevemarketwatch.com%2Fcallback&client_id=9f5df2526fd84d0aaff5ccea6579ad93&scope=esi-search.search_structures.v1 esi-universe.read_structures.v1 esi-markets.structure_markets.v1';
+export const EVE_LOGIN_BUTTON_IMAGE = "https://web.ccpgamescdn.com/eveonlineassets/developers/eve-sso-login-black-small.png";
